@@ -1,5 +1,5 @@
 # Ethereum-Wallet-in-python
-<h1>use BLE as a connection with phone or pc<h1>
+<h1>use Bluetooth Socket channel as a connection with phone or pc<h1>
 
 
 <h2>Wallet.py : </h2>
